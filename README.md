@@ -1,4 +1,4 @@
-### Technical Skills
+### Habilidades Técnicas
 
 #### Linguagens de Programação
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -25,10 +25,10 @@
 
 ---
 
-### Estatísticas do GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatovalis&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatovalis&layout=compact&theme=radical"/>
+### 📈 Estatísticas do GitHub
+<p align="left">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=renatovalis&show_icons=true&include_all_commits=false&count_private=true&theme=radical&custom_title=Atividade%20no%20Github"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatovalis&layout=compact&theme=radical&custom_title=Linguagem%20mais%20Usada"/>
 </p>
 
 ---
