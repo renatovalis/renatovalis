@@ -27,7 +27,7 @@
 
 ### 📈 Estatísticas do GitHub
 <p align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=renatovalis&show_icons=true&include_all_commits=false&count_private=true&theme=radical&custom_title=Atividade%20no%20Github"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=renatovalis&show_icons=true&include_all_commits=true&count_private=true&theme=radical&custom_title=Atividade%20no%20Github"/>
 </p>
 
 ---
